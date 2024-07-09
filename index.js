@@ -1,7 +1,6 @@
 const express = require("express");
 const userRoute = require ('./routes/userRoute')
 const morgan = require ('morgan')
-const check = require ('./middleware ')
 
 
 const app = express();
