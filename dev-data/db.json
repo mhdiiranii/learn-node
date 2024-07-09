@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Mahdi", "lastname": "irani", "male": "man", "live": "tabriz" },
+  { "id": 2, "name": "ali", "lastname": "irani", "male": "man", "live": "tabriz" },
+  { "id": 3, "name": "amin", "lastname": "irani", "male": "man", "live": "tabriz" },
+  { "id": 4, "name": "amin", "lastname": "irani", "male": "man", "live": "tabriz" },
+  { "id": 5, "name": "jafar", "lastname": "irani", "male": "man", "live": "tabriz" }
+]
